@@ -1,0 +1,2 @@
+-- Reconciliation SQL examples
+-- Example: unmatched transactions between source and ledger tables using FULL OUTER JOIN and IS NULL filters.

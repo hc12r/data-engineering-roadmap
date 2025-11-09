@@ -1,0 +1,2 @@
+-- Practice SQL queries
+-- Write SELECTs, JOINs, aggregations, and window functions here.

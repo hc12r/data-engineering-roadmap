@@ -1,0 +1,3 @@
+# SQL Basics
+
+Data types, SELECT, WHERE, GROUP BY, ORDER BY, LIMIT.
